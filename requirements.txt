@@ -1,0 +1,4 @@
+Flask==1.0.2
+Flask-Markdown==0.3
+Flask-Misaka
+Flask-RESTful==0.3.7
